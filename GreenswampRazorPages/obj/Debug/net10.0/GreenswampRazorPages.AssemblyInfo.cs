@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreenswampRazorPages")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55c91474fd1f97e0e51ce35fb774d00251bf1b3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreenswampRazorPages")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreenswampRazorPages")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

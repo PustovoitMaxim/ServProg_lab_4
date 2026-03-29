@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "1R9mtTrq3xk=",
+  "dgSpecHash": "9cmXb0CR59Q=",
   "success": true,
-  "projectFilePath": "D:\\ServProg\\ServProg_lab_3\\GreenswampRazorPages\\GreenswampRazorPages.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\ServProg\\ServProg_lab_4\\GreenswampRazorPages\\GreenswampRazorPages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pusto\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\pusto\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512",
+    "C:\\Users\\pusto\\.nuget\\packages\\mailkit\\4.15.1\\mailkit.4.15.1.nupkg.sha512",
+    "C:\\Users\\pusto\\.nuget\\packages\\mimekit\\4.15.1\\mimekit.4.15.1.nupkg.sha512",
+    "C:\\Users\\pusto\\.nuget\\packages\\system.security.cryptography.pkcs\\10.0.0\\system.security.cryptography.pkcs.10.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
