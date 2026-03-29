@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenswampRazorPages", "GreenswampRazorPages.csproj", "{1D71EA8D-BA03-000C-2B4A-C30F3CA40BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D71EA8D-BA03-000C-2B4A-C30F3CA40BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D71EA8D-BA03-000C-2B4A-C30F3CA40BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D71EA8D-BA03-000C-2B4A-C30F3CA40BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D71EA8D-BA03-000C-2B4A-C30F3CA40BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A613D18-D61C-480A-BBF7-1B47DC820A25}
+	EndGlobalSection
+EndGlobal
